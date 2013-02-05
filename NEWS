@@ -1,0 +1,11 @@
+NEWS for ZHFST installer
+========================
+This file contains all noteworthy changes in ZHFST installer between releases.
+For full listing of changes see git log.
+
+
+Noteworthy changes in 0.0.1
+---------------------------
+* First release. Everything is new.
+
+<!-- vim: set ft=markdown :-->
